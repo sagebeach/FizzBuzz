@@ -1,0 +1,7 @@
+C:\Users\tropi\source\repos\FizzBuzzCSharp\FizzBuzzCSharp\bin\Debug\FizzBuzzCSharp.exe.config
+C:\Users\tropi\source\repos\FizzBuzzCSharp\FizzBuzzCSharp\bin\Debug\FizzBuzzCSharp.exe
+C:\Users\tropi\source\repos\FizzBuzzCSharp\FizzBuzzCSharp\bin\Debug\FizzBuzzCSharp.pdb
+C:\Users\tropi\source\repos\FizzBuzzCSharp\FizzBuzzCSharp\obj\Debug\FizzBuzzCSharp.csprojResolveAssemblyReference.cache
+C:\Users\tropi\source\repos\FizzBuzzCSharp\FizzBuzzCSharp\obj\Debug\FizzBuzzCSharp.csproj.CoreCompileInputs.cache
+C:\Users\tropi\source\repos\FizzBuzzCSharp\FizzBuzzCSharp\obj\Debug\FizzBuzzCSharp.exe
+C:\Users\tropi\source\repos\FizzBuzzCSharp\FizzBuzzCSharp\obj\Debug\FizzBuzzCSharp.pdb
